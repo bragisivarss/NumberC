@@ -1,0 +1,14 @@
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\bin\Debug\net8.0\FyrstaVerk.exe
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\bin\Debug\net8.0\FyrstaVerk.deps.json
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\bin\Debug\net8.0\FyrstaVerk.runtimeconfig.json
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\bin\Debug\net8.0\FyrstaVerk.dll
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\bin\Debug\net8.0\FyrstaVerk.pdb
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.AssemblyInfoInputs.cache
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.AssemblyInfo.cs
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.csproj.CoreCompileInputs.cache
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.dll
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\refint\FyrstaVerk.dll
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.pdb
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\FyrstaVerk.genruntimeconfig.cache
+C:\Users\Sigursteinn Bragi\source\repos\FyrstaVerk\FyrstaVerk\obj\Debug\net8.0\ref\FyrstaVerk.dll
